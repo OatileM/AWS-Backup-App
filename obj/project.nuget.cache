@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEW7/Nk6g5+kSG1ye3l/IsxGQGCfSBgdycSQoDP+MNRaMOitgHPiRgWHLbQcHoBlmbJpB04oT8KA3ZkCNfiT+w==",
+  "success": true,
+  "projectFilePath": "C:\\Bouzer\\BackUp System\\BackupSystem\\BackupSystem\\BackupSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thand\\.nuget\\packages\\awssdk.core\\3.7.301.5\\awssdk.core.3.7.301.5.nupkg.sha512",
+    "C:\\Users\\thand\\.nuget\\packages\\awssdk.s3\\3.7.305.10\\awssdk.s3.3.7.305.10.nupkg.sha512",
+    "C:\\Users\\thand\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\thand\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\thand\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
